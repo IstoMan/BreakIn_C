@@ -2,6 +2,9 @@
 
 A simple Breakout clone written in C using the [raylib](https://www.raylib.com/) library.
 
+![Title Screen](./title.png)
+![Gameplay](./gameplay.png)
+
 ## Description
 
 This project is a classic Breakout game where the player controls a paddle to bounce a ball and destroy tiles. The game features:

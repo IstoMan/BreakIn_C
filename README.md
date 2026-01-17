@@ -2,8 +2,8 @@
 
 A simple Breakout clone written in C using the [raylib](https://www.raylib.com/) library.
 
-![Title Screen](./title.png)
-![Gameplay](./gameplay.png)
+<img src="./title.png" alt="The title screen of the game" style="width:50%; height:auto;">
+<img src="./gameplay.png" alt="Screenshot during gameplay" style="width:50%; height:auto;">
 
 ## Description
 
